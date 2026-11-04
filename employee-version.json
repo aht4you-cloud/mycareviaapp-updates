@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.41",
-    "notes":  "تشغيل الواجهة من داخل التطبيق + محادثة الاستشارة + إشعارات",
-    "sha256":  "10799e42e2da34c2c1af9015ec5f754d94695edca61dbe93557413550b190a76",
-    "versionCode":  41,
-    "url":  "https://github.com/aht4you-cloud/mycareviaapp-updates/releases/download/employee-1.0.41/telehealth-employee-1.0.41.apk",
-    "size":  32958406
+  "version": "1.0.41",
+  "versionCode": 41,
+  "url": "https://github.com/aht4you-cloud/mycareviaapp-updates/releases/download/employee-1.0.41/telehealth-employee-1.0.41.apk",
+  "sha256": "10799e42e2da34c2c1af9015ec5f754d94695edca61dbe93557413550b190a76",
+  "size": 32958406,
+  "notes": "تشغيل الواجهة من داخل التطبيق + محادثة الاستشارة + إشعارات"
 }
