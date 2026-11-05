@@ -1,0 +1,9 @@
+{
+  "version": "0.1.7",
+  "versionCode": 107,
+  "url": "https://github.com/aht4you-cloud/mycareviaapp-updates/releases/download/doctor-0.1.7/telehealth-doctor-0.1.7.apk",
+  "sha256": "7ed952325c5ce079f1e9a95a708b12f2353bdf10646caf8ae9f2fa465699d61b",
+  "size": 94442458,
+  "notes": "المكالمات الصوتية والمرئية بين الطبيب والمريض (WebRTC) + تحديث ذاتي عبر GitHub",
+  "minVersionCode": 0
+}
