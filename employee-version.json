@@ -1,8 +1,8 @@
 {
-  "version": "1.0.42",
-  "versionCode": 42,
-  "url": "https://github.com/aht4you-cloud/mycareviaapp-updates/releases/download/employee-1.0.42/telehealth-employee-1.0.42.apk",
-  "sha256": "d649eb752c7a6c4877f25b938d30111037f15b2bcf816795f030a0b4e3355466",
-  "size": 11515353,
-  "notes": "محادثة الاستشارة داخل التطبيق + إشعارات + تحديث ذاتي لا يعتمد على Vercel"
+  "version": "1.0.43",
+  "versionCode": 43,
+  "url": "https://github.com/aht4you-cloud/mycareviaapp-updates/releases/download/employee-1.0.43/telehealth-employee-1.0.43.apk",
+  "sha256": "a7999c9aca30739a37cc8d51f1cba95c98715eeb7a49ad13a770ed137279d95f",
+  "size": 11520793,
+  "notes": "المكالمات الصوتية والمرئية داخل محادثة الاستشارة (WebRTC)"
 }
