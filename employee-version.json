@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.44",
-    "versionCode":  44,
-    "url":  "https://github.com/aht4you-cloud/mycareviaapp-updates/releases/download/employee-1.0.44/telehealth-employee-1.0.44.apk",
-    "sha256":  "c2cf30405c165a01d4b134a66b3ca2613f822dd32eda10f9a029a5bd3784ad2b",
-    "size":  11521757,
-    "notes":  "إصلاح فحص التحديث (إصدار واحد للحقيقة + كسر الكاش) + المكالمات الصوتية والمرئية",
+    "version":  "1.0.45",
+    "versionCode":  45,
+    "url":  "https://github.com/aht4you-cloud/mycareviaapp-updates/releases/download/employee-1.0.45/telehealth-employee-1.0.45.apk",
+    "sha256":  "e8a94a2f2dbe889c2f92cd5ec0e3865b34a2a3d45cf188cf4c46c73818f5d63d",
+    "size":  11524897,
+    "notes":  "إصلاح فقدان البيانات بعد إعادة التحميل/تغيير اللغة، تهيئة التشفير عند التسجيل، الرجوع من التوصيات، ومنبه الدواء، وتحسين النسخ الاحتياطي.",
     "minVersionCode":  0
 }
