@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.49",
-    "versionCode":  49,
-    "url":  "https://github.com/aht4you-cloud/mycareviaapp-updates/releases/download/employee-1.0.49/telehealth-employee-1.0.49.apk",
-    "sha256":  "11198aef0b4bb3bd0327693758a7904527ca8f5d0d6db585bccc34edbeabd72b",
-    "size":  11534377,
-    "notes":  "إصلاحات: تغيير المظهر (داكن/فاتح) يُطبَّق فوراً على كل الصفحات دون إعادة تحميل، رسالة واضحة عند تعذّر الإملاء الصوتي (الإنترنت/حزمة اللغة) بدل العدّ الصامت، وعدم قفل التطبيق بالبصمة عند اختيار صورة الملف الشخصي حتى تُحفظ. مع إصلاحات 1.0.47 الأمنية وP1/P2.",
+    "version":  "1.0.50",
+    "versionCode":  50,
+    "url":  "https://github.com/aht4you-cloud/mycareviaapp-updates/releases/download/employee-1.0.50/telehealth-employee-1.0.50.apk",
+    "sha256":  "a14a8eb69f13ddaebf0afa61709b05099361a7ab8f2b96e8b585b3dff16ab70a",
+    "size":  11534833,
+    "notes":  "الضغط على تنبيه الدواء يفتح صفحة منبه الأدوية مباشرة، وحتى لو كان التطبيق مقفلا يفتحها بعد كلمة المرور أو البصمة، وتنبيه المتابعة يفتح صفحة توصيات الطبيب. مع إصلاحات 1.0.49: تطبيق المظهر فورا على كل الصفحات، رسالة واضحة عند تعذر الإملاء الصوتي، وعدم قفل التطبيق عند اختيار صورة الملف الشخصي.",
     "minVersionCode":  0
 }
