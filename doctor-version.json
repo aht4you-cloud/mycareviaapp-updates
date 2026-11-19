@@ -1,9 +1,9 @@
 {
-    "version":  "0.1.8",
-    "versionCode":  108,
-    "url":  "https://github.com/aht4you-cloud/mycareviaapp-updates/releases/download/doctor-0.1.8/telehealth-doctor-0.1.8.apk",
-    "sha256":  "81085cb6a0052af935ba788c4282063569f65c6ed006029247f4d7acc1a24f1e",
-    "size":  94442458,
-    "notes":  "إصلاح فحص التحديث (إصدار واحد للحقيقة + كسر الكاش) + المكالمات الصوتية والمرئية",
-    "minVersionCode":  0
+  "version": "0.2.1",
+  "versionCode": 111,
+  "url": "https://github.com/aht4you-cloud/mycareviaapp-updates/releases/download/doctor-0.2.1/telehealth-doctor-0.2.1.apk",
+  "sha256": "f811c46bce5e8269b2de4a1f51103d265efe3d89021098335112d9ca54aabb96",
+  "size": 96469376,
+  "notes": "قفل التطبيق بالبصمة أو قفل الجهاز (مع بديل «استخدام كلمة المرور») + إظهار/إخفاء كلمة المرور + تسجيل طبيب جديد بمراجعة إدارية + وضع «تصفّح فقط» قبل التفعيل",
+  "minVersionCode": 0
 }
